@@ -1,0 +1,19 @@
+{
+"fileMenu":"<wnd app='mycrm.exe' ctrlname='Form1' /><ctrl automationid='MenuBar' name='Application' role='menu bar' /><ctrl name='File' role='menu item' />",
+"firstNamePeople":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPagePeople' /><wnd ctrlname='groupBox5' /><wnd ctrlname='textBoxPeopleFirstName' />",
+"lastNamePeople":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPagePeople' /><wnd ctrlname='groupBox5' /><wnd ctrlname='textBoxPeopleLastName' />",
+"genderPeople":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPagePeople' /><wnd ctrlname='groupBox5' /><wnd ctrlname='radioButtonFemale' />",
+"address1_People":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPagePeople' /><wnd ctrlname='groupBox5' /><wnd ctrlname='textBoxPeopleAddLine1' />",
+"cityPeople":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPagePeople' /><wnd ctrlname='groupBox5' /><wnd ctrlname='textBoxPeopleAddressCity' />",  
+"statePeople":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPagePeople' /><wnd ctrlname='groupBox5' /><wnd ctrlname='comboBoxPeopleAddressState' /<ctrl name='State:' role='combo box' />",
+"phonePeople":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPagePeople' /><wnd ctrlname='groupBox5' /><wnd ctrlname='textBoxPeopleMobilePhone' />",
+"emailPeople":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPagePeople' /><wnd ctrlname='groupBox5' /><wnd ctrlname='textBoxPeopleWorkEmail' />",
+"activePeople":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPagePeople' /><wnd ctrlname='groupBox3' /><wnd ctrlname='checkBox1' />",
+"commentPeople":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPagePeople' /><wnd ctrlname='groupBox3' /><wnd ctrlname='textBoxPeopleComments' />",
+"companyName":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><ctrl name='Company ' role='page tab' />",
+"address1_Company":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPageCompanies' /><wnd ctrlname='groupBox6' /><wnd ctrlname='textBoxCompaniesName' />",
+"otherTab":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><ctrl name='Other' role='page tab' />",
+"generic1_Other":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPage4' /><wnd ctrlname='groupBoxOther' /><wnd ctrlname='textBox8' />",
+"saveButton":"<wnd app='mycrm.exe' ctrlname='Form1' /><wnd ctrlname='tabControl1' /><wnd ctrlname='tabPage4' /><wnd ctrlname='groupBoxOther' /><wnd ctrlname='button1' />",
+"okButton":"<wnd app='mycrm.exe' cls='#32770' idx='*' /><wnd ctrlid='65535' title='SAVE button has been clicked' />"
+}
